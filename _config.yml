@@ -1,0 +1,11 @@
+# Site settings
+title: Kardio.me
+email: jan@kardio.me
+description: "Making world a better place, one heart at a time."
+baseurl: ""
+url: "http://kardio.me"
+username: jmargeta
+
+# Build settings
+markdown: kramdown
+permalink: /posts/:year/:title.html

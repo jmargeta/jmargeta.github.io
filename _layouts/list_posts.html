@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+{% for post in site.categories['research'] %}
+    <div class="post">
+        <header class="post-header">
+            <h1>{{ post.title }}</h1>
+        </header>
+
+        <article class="post-content">
+            {{ post.content }}
+        </article>
+    </div>
+    <hr>
+{% endfor %}
+
+{{ content }}
+

@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi! I'm Ján Margeta, a PhD candidate in automated analysis of cardiac images from magnetic resonance, loving hearts, code, and white water!
 
-<img src="/images/happy_kayaker.JPG" alt="Yup, that's me ;)" width="400"/>
+<img src="{{ site.baseurl }}/images/happy_kayaker.jpg" alt="Yup, that's me ;)" width="400"/>
 
 I work with the [Asclepios research team](http://www-sop.inria.fr/asclepios/) at INRIA Sophia Antipolis, France, in collaboration with [Microsoft Research Cambridge](http://research.microsoft.com/en-us/projects/MedicalImageAnalysis/).
 
